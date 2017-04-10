@@ -5,7 +5,7 @@
 	Contact: UNIX.S3C (at) gmail (dot) com
 	URL: http://monsterb.github.io/ -->
 <head>
-<title>monsterb | daemons, gnus, and penguins. Oh my! | What's your IP?</title>
+<title>monsterb | daemons, gnus, and penguins. Oh my! | What's your ip?</title>
   </head>
    <body>
    
